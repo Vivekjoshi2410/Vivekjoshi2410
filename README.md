@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hello! I'm Vivek Joshi, a passionate web developer with a creative flair.  I'm currently pursuing my Electrical & Minor in Computer Engineering degree at Nirma University.<br><br>🌐 My journey in web development began when I discovered the power of turning lines of code into stunning websites. <br><br>🌟 Some of my key skills include:<br><br><b>Front-End Development </b>: HTML5, CSS3, JavaScript, React.js<br>Back-End Development: Node.js, MongoDB<br>UI/UX Design: Wireframing, Prototyping, Responsive Design<br>Version Control: Git and GitHub
+👋 Hello! I'm Vivek Joshi, a passionate web developer with a creative flair.  I'm currently pursuing my Electrical & Minor in Computer Engineering degree at Nirma University.<br><br>🌐 My journey in web development began when I discovered the power of turning lines of code into stunning websites. <br><br>🌟 Some of my key skills include:<br><br><strong>Front-End Development </strong> : HTML5, CSS3, JavaScript, React.js<br><strong>Back-End Development: </strong> Node.js, MongoDB<br><strong>UI/UX Design: </strong> Wireframing, Prototyping, Responsive Design<br><strong>Version Control:</strong> Git and GitHub
 
 
 ## 🌐 Socials:
